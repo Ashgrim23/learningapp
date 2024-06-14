@@ -1,0 +1,7 @@
+C:\downloads\AZURE\learningapp\bin\Publish\learningapp.exe
+C:\downloads\AZURE\learningapp\bin\Publish\appsettings.Development.json
+C:\downloads\AZURE\learningapp\bin\Publish\appsettings.json
+C:\downloads\AZURE\learningapp\bin\Publish\learningapp.dll
+C:\downloads\AZURE\learningapp\bin\Publish\learningapp.deps.json
+C:\downloads\AZURE\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\downloads\AZURE\learningapp\bin\Publish\learningapp.pdb
